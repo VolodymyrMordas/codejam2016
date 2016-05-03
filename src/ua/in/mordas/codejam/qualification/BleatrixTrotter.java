@@ -1,4 +1,4 @@
-package ua.in.mordas.codejam;
+package ua.in.mordas.codejam.qualification;
 
 import java.io.*;
 import java.util.ArrayList;
